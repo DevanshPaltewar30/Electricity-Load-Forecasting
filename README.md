@@ -9,3 +9,7 @@ patterns change, making the challenge difficult.
 • Developed an electricity load forecasting model using SCADA (real-time) and AMR data.
 • Forecasted electricity demand at multiple horizons — 15 minutes, 1 hour, and 1 day
 ahead
+
+Results
+MAPE=0.61%,R² = 0.995 on 15min horizon
+MAPE=1.06%, R²= 0.986 on 1 hour horizon
