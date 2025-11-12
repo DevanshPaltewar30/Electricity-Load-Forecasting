@@ -1,4 +1,4 @@
-#**Electricity Load Forecasting (Consultancy Project – ALDC, MSETCL)**
+**Electricity Load Forecasting (Consultancy Project – ALDC, MSETCL)**
 
 Rising demand, renewable integration, and also shifting consumption patterns create new challenges for India’s
 power sector. For grid stability, reliable forecasting is a critical need. Load fluctuations in addition to seasonal
