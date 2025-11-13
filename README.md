@@ -1,5 +1,6 @@
 **Electricity Load Forecasting (Consultancy Project – ALDC, MSETCL)**
-![SCADA Result](https://github.com/user-attachments/assets/da765aa9-9911-4ae1-95a6-61305c0c3b86)
+![SCADA Result](https://github.com/user-attachments/assets/fc6fd198-ab91-4869-a5b5-8194f3b96590)
+
 
 Rising demand, renewable integration, and shifting consumption patterns create new challenges for India’s power sector. Reliable load forecasting is essential for maintaining grid stability and minimizing power imbalance. This project focused on developing an accurate short-term and medium-term electricity load forecasting model using SCADA (real-time) and AMR data.
 
