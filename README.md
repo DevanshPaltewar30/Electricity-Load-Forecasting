@@ -1,15 +1,12 @@
 **Electricity Load Forecasting (Consultancy Project – ALDC, MSETCL)**
 
-Rising demand, renewable integration, and also shifting consumption patterns create new challenges for India’s
-power sector. For grid stability, reliable forecasting is a critical need. Load fluctuations in addition to seasonal
-variations cause the need for the Duck-curve effect. For distributors of state power, forecasting an accurate load
-is important in order to reduce the effect of imbalance in the matching of electricity demand with a power
-purchase. Demand increases within India’s power sector. Solar energy integrates renewables, consumption
-patterns change, making the challenge difficult.
-• Developed an electricity load forecasting model using SCADA (real-time) and AMR data.
-• Forecasted electricity demand at multiple horizons — 15 minutes, 1 hour, and 1 day
-ahead
+Rising demand, renewable integration, and shifting consumption patterns create new challenges for India’s power sector. Reliable load forecasting is essential for maintaining grid stability and minimizing power imbalance. This project focused on developing an accurate short-term and medium-term electricity load forecasting model using SCADA (real-time) and AMR data.
+
+Developed an electricity load forecasting model leveraging real-time and historical data.
+
+Forecasted electricity demand at multiple horizons — 15 minutes, 1 hour, and 1 day ahead.
 
 Results
 MAPE=0.61%,R² = 0.995 on 15min horizon
 MAPE=1.06%, R²= 0.986 on 1 hour horizon
+**Note: The implementation code and dataset details cannot be disclosed due to a Non-Disclosure Agreement (NDA) with ALDC, MSETCL**
