@@ -9,4 +9,5 @@ Forecasted electricity demand at multiple horizons — 15 minutes, 1 hour, and 1
 Results
 MAPE=0.61%,R² = 0.995 on 15min horizon
 MAPE=1.06%, R²= 0.986 on 1 hour horizon
+
 **Note: The implementation code and dataset details cannot be disclosed due to a Non-Disclosure Agreement (NDA) with ALDC, MSETCL**
