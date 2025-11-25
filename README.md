@@ -1,4 +1,8 @@
 **Electricity Load Forecasting (Consultancy Project – ALDC, MSETCL)**
+
+**Note: The implementation code and dataset details cannot be disclosed due to a Non-Disclosure Agreement (NDA) with ALDC, MSETCL**
+
+
 ![SCADA Result](https://github.com/user-attachments/assets/fc6fd198-ab91-4869-a5b5-8194f3b96590)
 
 
@@ -14,4 +18,3 @@ Results
 MAPE=0.61%,R² = 0.995 on 15min horizon
 MAPE=1.06%, R²= 0.986 on 1 hour horizon
 
-**Note: The implementation code and dataset details cannot be disclosed due to a Non-Disclosure Agreement (NDA) with ALDC, MSETCL**
